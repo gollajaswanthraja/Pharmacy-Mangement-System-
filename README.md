@@ -1,15 +1,6 @@
-# PHP-Profile-System-Change-Password 
+# PHP-Pharmacy Management System
 
-version: 1.0.0
-
-### UserName : elias
+### UserName : Jaswanth
 
 ### Password : 123
 
-## Full Tutorial
-
-[On Youtube](https://youtu.be/d2dBVzzorXE)
-
-## Authors
-
-[Elias Abdurrahman](https://github.com/codingWithElias)
